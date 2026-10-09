@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dramatic Resurrection / Light Burst Banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZjR3bmkzeGV6ZjV3Y3E0bmdic3ZrbzhicXBjOXdzMGR2bGF2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKr3nzbh5WgCFxe/giphy.gif" width="100%" alt="Resurrection Light Banner" />
+  <!-- Your St. Xavier's Church Image -->
+  <img src="church.jpg" width="100%" alt="St. Xavier's Church" />
 
   <br/><br/>
 
@@ -26,3 +26,8 @@
 ### 🌟 About Me
 
 > *"I am the resurrection and the life."* — Guided by core values, technology, and purpose.
+
+```text
+  ⚡ Reborn through continuous learning
+  🔥 Passionate about AI/ML & Cybersecurity
+  🚀 Building smart, secure systems with JOREX AI
