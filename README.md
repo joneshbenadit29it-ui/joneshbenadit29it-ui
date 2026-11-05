@@ -27,13 +27,3 @@
 </div>
 
 ---
-
-### 🚀 About JOREX AI & Founder
-
-> *"I am the resurrection and the life."* — Driven by faith, vision, and cutting-edge artificial intelligence.
-
-```text
-  ⚡ Founder & Architect at JOREX AI
-  🔥 Specialized in Python, AI Systems & Cybersecurity
-  🛡️ Cyber Security Intern @ CodeAlpha
-  🎓 IT Undergrad @ LICET
